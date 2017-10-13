@@ -11,15 +11,20 @@
 
 /**************/
 /* BASE RULES */
+/**************/
 
 
-html ;
-	font-size: #0000ff 100%;
 
-body background: linear-gradient(to bottom left, #ff6600 0%, #0000ff 100%);
- ;
-  font: 18px/1.4 $ bold;
-  color: #ffffff ;
+html {
+	font-size: 100%;
+
+body [
+	background-image: linear-gradient(to bottom left, #ff6600 0%, #0000ff 100%);
+	backround-repeat: no-repeat;
+	backround-attachment: fixed;
+	backround-position: center;
+font: 18px/1.4 #ffffff ;
+color: #ffffff ;
 }
 
 .container {
@@ -32,7 +37,7 @@ body background: linear-gradient(to bottom left, #ff6600 0%, #0000ff 100%);
 h1, h2, h3, h4, h5, h6 {
   font-family: #ff3300 ;
   color: #ffffff
-font-weight: bold;
+	  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
