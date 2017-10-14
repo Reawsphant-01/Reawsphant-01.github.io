@@ -120,17 +120,17 @@ img {
 }
 
 .date {
-  font-style: Comic Sans MS;
-  color: #ffffff ;
+  font-style: italic;
+  color: #ffffff;
 }
 
 // Specify the color of the selection
-::-moz-selection {
+::-moz-selecition {
   color: #ffffff;
   background: #ff3300;
 }
 ::selection {
-  color: ;
+  color: #0000ff;
   background: #ff3300 ;
 }
 
@@ -160,7 +160,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #0000ff;
 
   @include mobile {
     text-align: center;
@@ -198,7 +198,7 @@ img {
   margin: 0;
   color: #ff3300;
   cursor: pointer;
-  font-family: ;
+  font-family: #0000ff;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -260,9 +260,9 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid #ffffff ;
     padding: 0.1em 1em;
-    color: #ffffff ;
+    color: #ffffff;
     font-size: 22px;
-    font-style: Comic Sans MS;
+    font-style: italic;
   }
 
   .comments {
@@ -283,7 +283,7 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
+  padding: 20px 5;
   text-align: center;
 }
 
