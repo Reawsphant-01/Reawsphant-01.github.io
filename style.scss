@@ -19,7 +19,7 @@ html {
 
 body {
 	background-image: linear-gradient(to bottom left, #ff6600 0%, #0000ff 100%);
-font: 18px/1.4 #ffffff;
+font: 18px/1.4 $helvetica;
 color: #ffffff;
 }
 
@@ -31,8 +31,8 @@ color: #ffffff;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: #ff3300 ;
-  color: #ffffff
+  font-family: ;
+  color: #ffffff;
 	  font-weight: bold;
 
   line-height: 1.7;
