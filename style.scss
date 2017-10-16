@@ -13,13 +13,11 @@
 /* BASE RULES */
 /**************/
 
-
-
 html {
 	font-size: 100%;
 }
 
-body [
+body {
 	background-image: linear-gradient(to bottom left, #ff6600 0%, #0000ff 100%);
 	backround-repeat: no-repeat;
 	backround-attachment: fixed;
