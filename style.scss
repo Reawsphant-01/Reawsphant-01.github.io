@@ -32,7 +32,7 @@ color: #FFFFFF;
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Comic Sans MS", Times, serif;
+  font-family: "Comic Sans MS" ;
   colour: #ffffff;
   font-weight: bold;
 
@@ -125,11 +125,11 @@ img {
 // Specify the color of the selection
 ::-moz-selecition {
   color: #ffffff;
-  background: #ff3300;
+  background: #FFFFFF;
 }
 ::selection {
   color: #0000ff;
-  background: #ff3300 ;
+  background: #FFFFFF;
 }
 
 // Nicolas Gallagher's micro clearfix hack
