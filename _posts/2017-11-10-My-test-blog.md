@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes , I have successfully posted a blog on github!</td>
   </tr>
 </table>
 
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>This lesson's work wasn’t as hard as expected I didn’t need a lot of persevering.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>Thankfully, I didn’t need to ask any questions.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>I tried to do my work independently and I have accomplished that.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>Thinking back, I can and will remember Mr Keen’s instructions for this lesson. </td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td></td>
+    <td> the people surrounding me needed more help so I help them (I didn’t cheat).</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I could have ignored the people next to me and engaged in my work more.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Sit somewhere else.</td>
     <td></td>
   </tr>
 </table>
