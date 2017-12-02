@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>A visitor had taken our lesson today and she talked us through our instructions and worksheets then made us crack on.</td>
+    <td>  A visitor had taken our lesson today and she talked us through our instructions and worksheets then made us crack on.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
