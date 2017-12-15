@@ -196,17 +196,6 @@ img {
 <style> 
 div {
   
-/* Safari 4.0 - 8.0 */
-@-webkit-keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
-}
-
-/* Standard syntax */
-@keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
-
 .site-name {
   margin: 0;
   color: #ff3300;
